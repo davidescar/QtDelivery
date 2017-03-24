@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Magazzino>
+  <Regular>
+    <Peso>12.8</Peso>
+    <Altezza>22.4</Altezza>
+    <Larghezza>21.0</Larghezza>
+    <Profondita>45.5</Profondita>
+    <nomeMittente>Paolo</nomeMittente>
+    <cognomeMittente>Rossi</cognomeMittente>
+    <indirizzoMittente>via Roma</indirizzoMittente>
+    <nCivMittente>5</nCivMittente>
+    <CAPMittente>35100</CAPMittente>
+    <nomeDestinatario>Mario</nomeDestinatario>
+    <cognomeDestinatario>Verdi</cognomeDestinatario>
+    <indirizzoDestinatario>via Mantova</indirizzoDestinatario>
+    <nCivDestinatario>23</nCivDestinatario>
+    <CAPDestinatario>12345</CAPDestinatario>
+  </Regular>
+  <Regular>
+    <Peso>22.6</Peso>
+    <Altezza>18.5</Altezza>
+    <Larghezza>11.8</Larghezza>
+    <Profondita>31.2</Profondita>
+    <nomeMittente>Paolo</nomeMittente>
+    <cognomeMittente>Rossi</cognomeMittente>
+    <indirizzoMittente>via Roma</indirizzoMittente>
+    <nCivMittente>5</nCivMittente>
+    <CAPMittente>35100</CAPMittente>
+    <nomeDestinatario>Giovanna</nomeDestinatario>
+    <cognomeDestinatario>Neri</cognomeDestinatario>
+    <indirizzoDestinatario>via Palermo</indirizzoDestinatario>
+    <nCivDestinatario>2</nCivDestinatario>
+    <CAPDestinatario>19587</CAPDestinatario>
+  </Regular>
+  <Fast>
+    <Peso>10.2</Peso>
+    <Altezza>15.5</Altezza>
+    <Larghezza>10.0</Larghezza>
+    <Profondita>32.0</Profondita>
+    <nomeMittente>Francesco</nomeMittente>
+    <cognomeMittente>Prova</cognomeMittente>
+    <indirizzoMittente>via Bari</indirizzoMittente>
+    <nCivMittente>67</nCivMittente>
+    <CAPMittente>35100</CAPMittente>
+    <nomeDestinatario>Marco</nomeDestinatario>
+    <cognomeDestinatario>Freddi</cognomeDestinatario>
+    <indirizzoDestinatario>via Torino</indirizzoDestinatario>
+    <nCivDestinatario>34</nCivDestinatario>
+    <CAPDestinatario>33486</CAPDestinatario>
+  </Fast>
+  <International>
+    <Peso>20.0</Peso>
+    <Altezza>40.0</Altezza>
+    <Larghezza>22.5</Larghezza>
+    <Profondita>56.8</Profondita>
+    <nomeMittente>Paolo</nomeMittente>
+    <cognomeMittente>Rossi</cognomeMittente>
+    <indirizzoMittente>via Roma</indirizzoMittente>
+    <nCivMittente>5</nCivMittente>
+    <CAPMittente>35100</CAPMittente>
+    <nomeDestinatario>Bill</nomeDestinatario>
+    <cognomeDestinatario>Gates</cognomeDestinatario>
+    <indirizzoDestinatario>via Kennedy</indirizzoDestinatario>
+    <nCivDestinatario>10</nCivDestinatario>
+    <CAPDestinatario>29444</CAPDestinatario>
+  </International>
+  <Fast>
+    <Peso>27.6</Peso>
+    <Altezza>39.6</Altezza>
+    <Larghezza>42.0</Larghezza>
+    <Profondita>50.0</Profondita>
+    <nomeMittente>Federico</nomeMittente>
+    <cognomeMittente>Angri</cognomeMittente>
+    <indirizzoMittente>via Milano</indirizzoMittente>
+    <nCivMittente>97</nCivMittente>
+    <CAPMittente>99374</CAPMittente>
+    <nomeDestinatario>Paolo</nomeDestinatario>
+    <cognomeDestinatario>Rossi</cognomeDestinatario>
+    <indirizzoDestinatario>via Roma</indirizzoDestinatario>
+    <nCivDestinatario>5</nCivDestinatario>
+    <CAPDestinatario>35100</CAPDestinatario>
+  </Fast>
+  <Regular>
+    <Peso>12.0</Peso>
+    <Altezza>23.6</Altezza>
+    <Larghezza>35.1</Larghezza>
+    <Profondita>20.0</Profondita>
+    <nomeMittente>Marco</nomeMittente>
+    <cognomeMittente>Freddi</cognomeMittente>
+    <indirizzoMittente>via Torino</indirizzoMittente>
+    <nCivMittente>34</nCivMittente>
+    <CAPMittente>33486</CAPMittente>
+    <nomeDestinatario>Giovanna</nomeDestinatario>
+    <cognomeDestinatario>Neri</cognomeDestinatario>
+    <indirizzoDestinatario>via Palermo</indirizzoDestinatario>
+    <nCivDestinatario>2</nCivDestinatario>
+    <CAPDestinatario>19587</CAPDestinatario>
+  </Regular>
+  <International>
+    <Peso>18.0</Peso>
+    <Altezza>34.0</Altezza>
+    <Larghezza>22.6</Larghezza>
+    <Profondita>31.5</Profondita>
+    <nomeMittente>Francesco</nomeMittente>
+    <cognomeMittente>Prova</cognomeMittente>
+    <indirizzoMittente>via Bari</indirizzoMittente>
+    <nCivMittente>67</nCivMittente>
+    <CAPMittente>35100</CAPMittente>
+    <nomeDestinatario>Mario</nomeDestinatario>
+    <cognomeDestinatario>Verdi</cognomeDestinatario>
+    <indirizzoDestinatario>via Mantova</indirizzoDestinatario>
+    <nCivDestinatario>23</nCivDestinatario>
+    <CAPDestinatario>12345</CAPDestinatario>
+  </International>
+  <Fast>
+    <Peso>26.8</Peso>
+    <Altezza>33.4</Altezza>
+    <Larghezza>38.0</Larghezza>
+    <Profondita>29.0</Profondita>
+    <nomeMittente>Silvio</nomeMittente>
+    <cognomeMittente>Burla</cognomeMittente>
+    <indirizzoMittente>via Cagliari</indirizzoMittente>
+    <nCivMittente>34</nCivMittente>
+    <CAPMittente>00641</CAPMittente>
+    <nomeDestinatario>Nicola</nomeDestinatario>
+    <cognomeDestinatario>Larini</cognomeDestinatario>
+    <indirizzoDestinatario>via Napoleone</indirizzoDestinatario>
+    <nCivDestinatario>102</nCivDestinatario>
+    <CAPDestinatario>44529</CAPDestinatario>
+  </Fast>
+</Magazzino>

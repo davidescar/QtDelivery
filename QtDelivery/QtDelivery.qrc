@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/clear.png</file>
+        <file>images/quit.png</file>
+        <file>images/info.png</file>
+        <file>images/background.jpeg</file>
+        <file>images/fast.png</file>
+        <file>images/international.png</file>
+        <file>images/regular.png</file>
+        <file>images/new.png</file>
+        <file>images/first.png</file>
+        <file>images/last.png</file>
+        <file>images/home.png</file>
+        <file>images/euro.png</file>
+        <file>images/size.png</file>
+        <file>images/logo.png</file>
+        <file>images/send.png</file>
+        <file>images/box.png</file>
+        <file>images/number.png</file>
+        <file>info.html</file>
+    </qresource>
+</RCC>
